@@ -1,7 +1,3 @@
-layout: page
-title: "Leibniz"
-permalink: /leibniz
-
 # Leibniz
 
 Philosophe, scientifique, mathématicien, logicien, diplomate, juriste, bibliothécaire et philologue allemand. 
