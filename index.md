@@ -5,4 +5,4 @@ layout: default
 
 # Projet Leibniz
 
-* [Leibniz](/leibniz)
+* [Leibniz](/markdowns/leibniz)
